@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 20
+paginate: 10
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -366,7 +366,7 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
+  enable: true
   per_page: false
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
@@ -384,7 +384,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname:
   count: true
   # hide comments (visitors need to click to load the comments)
@@ -419,7 +419,7 @@ changyan:
 ##  type: button
 
 # Share
-# jiathis:true
+#jiathis:
 # Warning: JiaThis does not support https.
 #add_this_id:
 
