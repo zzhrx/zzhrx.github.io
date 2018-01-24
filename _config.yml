@@ -6,8 +6,8 @@
 # Site
 title: Couragelogos
 subtitle:
-description: Student in Sun Yat-sen University, China. Major in computer science.
-author: Benson Yan
+description: wublub dubda
+author: Logos
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2017
+since: 2018
 
 # icon between year and author @Footer
 authoricon: heart
