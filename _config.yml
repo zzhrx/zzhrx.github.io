@@ -152,9 +152,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -218,6 +218,7 @@ social:
   #LinkLabel: Link
     GitHub: https://github.com/Logos23333
     School: http://www.scut.edu.cn/new
+    Email:logos23333@gmail.com
 
 
 # Social Links Icons
@@ -233,6 +234,7 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   School: university
+  Email: email
 
 
 # Sidebar Avatar
@@ -357,7 +359,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night eighties
 
 
 # ---------------------------------------------------------------
