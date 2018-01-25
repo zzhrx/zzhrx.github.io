@@ -218,6 +218,7 @@ social:
   #LinkLabel: Link
     GitHub: https://github.com/Logos23333
     School: http://www.scut.edu.cn/new
+    E-Mail:logos23333@gmail.com
 
 
 # Social Links Icons
@@ -233,6 +234,7 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   School: university
+  E-Mail: e-mail
 
 
 # Sidebar Avatar
