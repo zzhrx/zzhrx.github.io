@@ -385,7 +385,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname:logos23333
+  shortname:disqus_hJk6sYeWOC
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
