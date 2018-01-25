@@ -384,8 +384,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
-  shortname:logos23333
+  enable: false
+  shortname:
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -409,7 +409,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zMzU2Ny8xMDEyMg==
 
 # Baidu Share
 # Available value:
