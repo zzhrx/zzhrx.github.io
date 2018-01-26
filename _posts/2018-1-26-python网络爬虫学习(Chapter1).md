@@ -39,13 +39,10 @@ when using the new urllib.
 
 # BeautifulSoup
 
->“Beautiful Soup, so rich and green,
-
->Waiting in a hot tureen!
-
->Who for such dainties would not stoop?
-
->Soup of the evening, beautiful Soup!”
+>“Beautiful Soup, so rich and green,  
+Waiting in a hot tureen!  
+Who for such dainties would not stoop?  
+Soup of the evening, beautiful Soup!”  
 
 很有趣的一个名字，BeautifulSoup取名于*爱丽丝梦游仙境*的同名诗歌。
 
@@ -53,17 +50,12 @@ when using the new urllib.
 
 BeautifulSoup其实就是一个类，这个类会把html的内容组织成一个特定的结构，如：
 
->html → <html><head>...</head><body>...</body></html>
-
->— head → <head><title>A Useful Page<title></head>
-
->— title → <title>A Useful Page</title>
-
->— body → <body><h1>An Int...</h1><div>Lorem ip...</div></body>
-
->— h1 → <h1>An Interesting Title</h1>
-
->— div → <div>Lorem Ipsum dolor...</div>
+>html → <html><head>...</head><body>...</body></html>  
+— head → <head><title>A Useful Page<title></head>  
+— title → <title>A Useful Page</title>  
+— body → <body><h1>An Int...</h1><div>Lorem ip...</div></body>  
+— h1 → <h1>An Interesting Title</h1>  
+— div → <div>Lorem Ipsum dolor...</div>  
 
 下面看一段代码：
 
@@ -85,7 +77,7 @@ protocol://serverIP/path
 
 我们通常用的是http协议，所以大多数网站都是以http开头的，接下来的serverIP就是主机或者叫服务器的ip地址，path是具体路径，可以省略。
 
-##HTTPError
+## HTTPError
 
 >The page is not found on the server (or there was some error in retrieving it)
 
@@ -100,7 +92,7 @@ protocol://serverIP/path
 	#program continues. Note: If you return or break in the
 	#exception catch, you do not need to use the "else" statement
 
-##URLError
+## URLError
 
 >The server is not found
 
