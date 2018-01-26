@@ -51,11 +51,11 @@ Soup of the evening, beautiful Soup!”
 BeautifulSoup其实就是一个类，这个类会把html的内容组织成一个特定的结构，如：
 
 >html → <html><head>...</head><body>...</body></html>  
-— head → <head><title>A Useful Page<title></head>  
-— title → <title>A Useful Page</title>  
-— body → <body><h1>An Int...</h1><div>Lorem ip...</div></body>  
-— h1 → <h1>An Interesting Title</h1>  
-— div → <div>Lorem Ipsum dolor...</div>  
+>— head → <head><title>A Useful Page<title></head>  
+>— title → <title>A Useful Page</title>  
+>— body → <body><h1>An Int...</h1><div>Lorem ip...</div></body>  
+>— h1 → <h1>An Interesting Title</h1>  
+>— div → <div>Lorem Ipsum dolor...</div>  
 
 下面看一段代码：
 
@@ -66,8 +66,7 @@ BeautifulSoup其实就是一个类，这个类会把html的内容组织成一个
 	print(bsObj.h1)
 
 结合上文，它的输出结果应该是：
-
-	<h1>An Interesting Title</h1>
+`<h1>An Interesting Title</h1>`
 	
 # ExceptionHandling
 
@@ -101,12 +100,9 @@ protocol://serverIP/path
 书上其实没有提到URLError，它说的是如果找不到服务器，那么html会是一个None值，接着用if语句判断html是否为None，当我在运行书上的程序时发现如果找不到服务器，直接就会抛出
 URLError，if语句是不会执行的。
 
-##AttributeError
+## AttributeError
 
 如果我们在网页找不到具体的tag时，AttributeError就会被抛出。
-例如
-	print(bsObj.nonExistentTag.someTag)
-
-中的someTag不存在，此时会抛出AttributeError。
+例如`print(bsObj.nonExistentTag.someTag)`中的someTag不存在，此时会抛出AttributeError。
 
 
