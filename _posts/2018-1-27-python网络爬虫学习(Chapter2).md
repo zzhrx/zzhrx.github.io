@@ -226,8 +226,8 @@ Lambda表达式，或许可以用来替代regex，不展开说。
 
 介绍了除BeautifulSoup之外可以用到的库，但目前我打算专注BeautifulSoup，就不去了解了。
 
-## lxml
+* lxml
 
-## HTML Parser
+* HTML Parser
 
 
