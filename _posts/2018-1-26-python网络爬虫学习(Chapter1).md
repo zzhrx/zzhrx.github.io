@@ -28,7 +28,7 @@ urlopen(url)打开一个网页并读取相关内容，html.read()返回的是网
 
 关于urllib和urllib2
 
->urllib or urllib2?
+>urllib or urllib2?  
 If you’ve used the urllib2 library in Python 2.x, you might have
 noticed that things have changed somewhat between urllib2 and
 urllib. In Python 3.x, urllib2 was renamed urllib and was split into
