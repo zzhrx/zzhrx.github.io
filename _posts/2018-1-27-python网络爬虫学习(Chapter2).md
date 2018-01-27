@@ -206,28 +206,28 @@ find 其实等价于findAll的limit等于1时的情形。如果你只对网页�
 
 结果为：`$15.00`
 
-## Regular Expressions
+# Regular Expressions
 
 正则表达式，简称为regex，大二《编译原理》课有很详细的学过这方面的知识，就不再赘述了。
 
-## Regular Expressions and BeautifulSoup
+# Regular Expressions and BeautifulSoup
 
 同时运用两方面的知识来构建一个爬虫，regex可以让我们得到的信息更具体，在一些需要对信息进行限制的情况下我们需要用到regex。
 
-## Accessing Attributes
+# Accessing Attributes
 
 用`myTag.attrs`这样的格式可以获取标签的所有属性。
 
-## Lambda Expressions
+# Lambda Expressions
 
 Lambda表达式，或许可以用来替代regex，不展开说。
 
-## Beyond BeautifulSoup
+# Beyond BeautifulSoup
 
 介绍了除BeautifulSoup之外可以用到的库，但目前我打算专注BeautifulSoup，就不去了解了。
 
-### lxml
+## lxml
 
-### HTML Parser
+## HTML Parser
 
 
