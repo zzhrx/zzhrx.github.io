@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Web Scraping With Python Chapter 1 Learning notes
 category: Python
 tags: 
