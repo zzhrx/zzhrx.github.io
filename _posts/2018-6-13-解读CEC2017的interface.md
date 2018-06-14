@@ -7,7 +7,7 @@ tags:
 layout: post
 ---
 
-CEC2017 benchmark function可以从!(这里)[http://web.mysites.ntu.edu.sg/epnsugan/PublicSite/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fepnsugan%2FPublicSite%2FShared%20Documents%2FCEC-2017&View=%7bDAF31868-97D8-4779-AE49-9CEC4DC3F310%7d]下载。
+CEC2017 benchmark function可以从[这里](http://web.mysites.ntu.edu.sg/epnsugan/PublicSite/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fepnsugan%2FPublicSite%2FShared%20Documents%2FCEC-2017&View=%7bDAF31868-97D8-4779-AE49-9CEC4DC3F310%7d)下载。
 
 导师最近给了个课题让我自己研究，跟智能优化算法相关的，必不可免的要用到最新的CEC2017 benchmark function,然而
 笔者着实踩了很多坑，第一步编译都差点跪了。
