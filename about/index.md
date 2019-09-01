@@ -51,4 +51,6 @@ layout: page
 
 Q：3256749473.
 
+Frequency of updates: once a week
+
 
